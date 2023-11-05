@@ -30,9 +30,9 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Darkdevil9793/AlexDevil_banbot && AlexDevil_banbot`
+`git clone https://github.com/Darkdevil9793/AlexDevil_banbot && cd AlexDevil_banbot`
 - Install requirements by :
-`pip3 install -U -r requirements.txt`
+`pip3 install -U -r Installer`
 - Fill your variables in the env by :
 `vi sample.env`<br>
 Press `I` on the keyboard for editing env<br>
